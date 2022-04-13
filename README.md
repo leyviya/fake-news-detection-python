@@ -2,6 +2,10 @@
 
 Project name: Fake News Detection
 
+You can find the datasets that I've used in this project from link below:
+
+https://drive.google.com/drive/folders/1Tx2ALx7S2rVFuZG31L_u3HqjojvbNArb?usp=sharing
+
 Software Requirement -
 Programming language – Python (latest version is recommended) 
 Libraries - Pandas & Numpy & Seaborn library
